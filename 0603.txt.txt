@@ -1,0 +1,11 @@
+length는 한변의 길이이다
+
+
+t.color("")
+t.begin_fill()
+t.end_fill()
+
+
+print(str[3])
+
+print(color[3])
